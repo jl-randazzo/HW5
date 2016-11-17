@@ -1,0 +1,51 @@
+Part 1
+3.3.
+1. 2. 7. & 10. are in picture files in the git hub.
+
+19. For color, we'd still just need 1 bit
+
+Part 2
+3.4
+1.
+
+0 - E, Y, T, O
+1 - A, U
+2 - Q
+3 -
+4 - S, I, N
+
+4. a = 7, M = 19 will file all into separate lists
+
+10. M = 16
+0
+1 -- S
+2
+3 -- Y
+4
+5
+6
+7 -- E
+8 -- Q
+9 -- U
+10 -- O
+11 -- A
+12 -- T
+13 -- I
+14 -- N
+15
+
+M = 10
+0 -- T
+1 -- A
+2 -- U
+3 -- I
+4 -- N
+5 -- E
+6 -- Y
+7 -- O
+8 -- Q
+9 -- S
+
+22. All of the classes are in my source folder, but they all already have hashCode() methods, as I mentioned to you in class.
+
+Part 3 and 4 are used in LukeHW5Part3.java and LukeHash.java (it does use LukeBinaryTree3.java as well).
